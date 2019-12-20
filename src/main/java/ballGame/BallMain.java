@@ -1,4 +1,4 @@
-package ballGame;
+package java.ballGame;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;
